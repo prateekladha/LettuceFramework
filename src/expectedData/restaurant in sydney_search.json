@@ -1,0 +1,51 @@
+{
+    "html_attributions":[],
+    "results":[
+        {
+            "geometry":{
+                "location":{
+                    "lat":-33.8679724,
+                    "lng":151.1952317
+                },
+                "viewport":{
+                    "northeast":{
+                        "lat":-33.86580425,
+                        "lng":151.1973838
+                    },
+                    "southwest":{
+                        "lat":-33.87093845,
+                        "lng":151.1929602
+                    }
+                }
+            },
+            "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id":"44fdc977984610cd873c790a7d850e8185ed0e5e",
+            "name":"The Star",
+            "photos":[
+                {
+                    "height":1782,
+                    "html_attributions":[
+                        "<a href=\"https://maps.google.com/maps/contrib/108010117506893215344/photos\">Brett Freer</a>"
+                    ],
+                    "photo_reference":"CoQBdwAAAKmynIT2gvl2wkbwZQF0Sy3bxovRZfBBJdrVPEY6qFwZGcm599T66C51_DFR-YF5mBVNzXFI_jlk5ceBhuAvcaQB5G7mfnNXxg9INy9KuzUUydnU0bKcXU0W_YZrjDy9Xn0JxU62xX84zM2fWCv99Z4L2-tgGxwKbcgXK37-Qyb3EhD5ZF15pdlgEvZHFSO_0p-7GhSZ9aDV7Oih1R4R6nULKWaJXng8hA",
+                    "width":4930
+                }
+            ],
+            "place_id":"ChIJq6qq6jauEmsRJAf7FjrKnXI",
+            "rating":3.9,
+            "reference":"CmRRAAAA0MFZgXR5m6QuWvnMWa06dCs0473y-oHOIEqN7ghXjeTSQMqRn2EvW45_KA24q43HwXdCk5Si6rkgmU0-_iJ4nv_z02neJ56AYEAtXKDRbYWHrqitVf0Pun63EOoHiseIEhD_zbF2S4Rqx3gW468Tlw7zGhQpscQG2iiLRh8EO_D0YOJARIg-hw",
+            "scope":"GOOGLE",
+            "types":[
+                "casino",
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity":"80 Pyrmont Street, Pyrmont"
+        }
+    ],
+    "status":"OK"
+}
